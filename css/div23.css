@@ -1,0 +1,24 @@
+.main {
+	height:50px;
+	width:600px;
+	border:1px solid black;
+    margin-top: 100px;
+    margin-bottom: 500px;
+    margin-right: 550px;
+    margin-left: 350px;
+	background-color:gray;
+}
+.a{
+	width:15px;
+	height:20px;
+	border:1px solid black;
+    margin-left:270px;
+	margin-top: 10px;
+}
+.b{
+	width:15px;
+	height:20px;
+	border:1px solid black;
+    margin-left:290px;
+	margin-top: -22px;
+}
